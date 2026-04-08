@@ -2,8 +2,6 @@
 Zomato Market Intelligence &amp; Expansion Strategy System using Python and Data Analytics
 # Zomato Market Intelligence & Expansion Strategy System
 
-#  Zomato Market Intelligence & Expansion Strategy System
-
 ##  Objective
 
 To analyze 40,000+ Zomato restaurant records and develop a data-driven system to identify optimal locations, pricing strategies, and cuisine trends for business expansion.
@@ -14,7 +12,6 @@ To analyze 40,000+ Zomato restaurant records and develop a data-driven system to
 * Data Cleaning & Preprocessing
 * Feature Engineering
 * Exploratory Data Analysis (EDA)
-
 
 ##  Data Processing
 
@@ -51,15 +48,12 @@ Developed a **data-driven scoring model** combining:
 This model identifies **high-potential locations for business expansion**
 
 ## Project Files
-
 * `zomato_analysis.ipynb` → Complete analysis and model
 * Dataset used for analysis
 
 ## Conclusion
-
 This project demonstrates how data analytics can be leveraged to make strategic business decisions by combining demand analysis with quality metrics, enabling smarter expansion planning.
 
 ##  Project Link
-
-(You can add your GitHub repo link here)
+[Click here to view project]( https://github.com/DiashaGhosh/Zomato-analytics-project)
 
